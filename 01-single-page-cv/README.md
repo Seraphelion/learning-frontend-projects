@@ -1,3 +1,8 @@
+---
+layout: default
+title: Single Page CV
+---
+
 [Back to repository README](../README.md)
 # Single-Page CV
 The goal of the project is to create a single-page CV that meets the following requirements:

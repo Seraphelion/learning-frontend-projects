@@ -13,6 +13,8 @@ The goal of the project is to create a single-page CV that meets the following r
 
 Initially the project seemed simple, but then I realized that I had no clue what the requirements even meant, so I started my research. Note, I used Grok and Imagine by xAI to generate content for filling the CV, but not to generate the HTML itself.
 
+<strong>[My Single-Page CV Website](01-single-page-cv/index.html)</strong>
+
 ## Semantic HTML
 "Semantically correct HTML" refers to using all of the tags that HTML has appropriately. This is as opposed to overusing non-descriptive HTML tags such as the \<div\> or the \<span\> tag. There are many benefits of writing HTML like that, such as:
 - It makes the HTML more readable for yourself and others that might have to use it.
